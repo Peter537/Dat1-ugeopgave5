@@ -3,7 +3,7 @@ package task1;
 public class Driver {
 
     private final String name;
-    private final int age;
+    private int age;
 
     public Driver(String name, int age) {
         this.name = name;

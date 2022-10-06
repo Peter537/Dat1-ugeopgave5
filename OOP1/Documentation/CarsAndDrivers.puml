@@ -5,11 +5,11 @@ class Main {
 }
 
 class Car {
-    - String make;
-    - String model;
-    - int year;
-    - String bodyStyle;
-    - Driver driver;
+    - final String make;
+    - final String model;
+    - final int year;
+    - final String bodyStyle;
+    - final Driver driver;
 
     + Car(String make, String model, int year, String bodyStyle)
     + Driver getDriver()
@@ -18,7 +18,7 @@ class Car {
 }
 
 class Driver {
-    - String name;
+    - final String name;
     - int age;
 
     + Driver(String name, int age)
