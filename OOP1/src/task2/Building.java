@@ -5,9 +5,9 @@ import java.util.ArrayList;
 public class Building {
 
     private final ArrayList<Room> rooms;
-    private final int numberOfBathrooms;
-    private final int numberOfFloors;
-    private final boolean isOfficeBuilding;
+    private int numberOfBathrooms;
+    private int numberOfFloors;
+    private boolean isOfficeBuilding;
 
     public Building(ArrayList<Room> rooms, int numberOfBathrooms, int numberOfFloors, boolean isOfficeBuilding) {
         this.rooms = rooms;
