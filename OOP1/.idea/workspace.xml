@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d799fa17-35dc-4ff1-ae84-5b6cd1674eaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/BuildingsAndRooms.puml" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/BuildingsAndRooms.puml" afterDir="false" />
-    </list>
+    <list default="true" id="d799fa17-35dc-4ff1-ae84-5b6cd1674eaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
