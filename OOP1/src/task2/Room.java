@@ -23,5 +23,4 @@ public class Room {
     public int getNumberOfWindows() {
         return numberOfWindows;
     }
-
 }

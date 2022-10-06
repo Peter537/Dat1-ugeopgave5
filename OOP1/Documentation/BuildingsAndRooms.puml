@@ -7,11 +7,30 @@ class Main {
 }
 
 class Building {
+    - ArrayList<Room> rooms
+    - int numberOfBathrooms
+    - int numberOfFloors
+    - boolean isOfficeBuilding
 
+    + Building(ArrayList<Room> rooms, int numberOfBathrooms, int numberOfFloors, boolean isOfficeBuilding)
+    + boolean isOfficeBuilding()
+    + int getNumberOfBathrooms()
+    + int getNumberOfFloors()
+    + ArrayList<Room> getRooms()
 }
 
 class Room {
+    - int numberOfDoors
+    - int numberOfLamps
+    - int numberOfWindows
 
+    + Room(int numberOfDoors, int numberOfLamps, int numberOfWindows)
+    + int getNumberOfDoors()
+    + int getNumberOfLamps()
+    + int getNumberOfWindows()
 }
+
+Main *-- Building
+Building *-- Room
 
 @enduml
