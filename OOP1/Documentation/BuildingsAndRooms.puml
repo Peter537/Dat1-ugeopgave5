@@ -1,0 +1,17 @@
+@startuml
+
+class Main {
+    + static void main(String[] args)
+    + static int countLampsInBuilding(Building building)
+    + static boolean isNormal(Building building)
+}
+
+class Building {
+
+}
+
+class Room {
+
+}
+
+@enduml

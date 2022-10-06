@@ -10,7 +10,7 @@ public class Main {
         Room room2 = new Room(1, 2, 3);
         Room room3 = new Room(3, 4, 5);
 
-        List<Room> rooms = new ArrayList<>();
+        ArrayList<Room> rooms = new ArrayList<>();
         rooms.add(room1);
         rooms.add(room2);
         rooms.add(room3);

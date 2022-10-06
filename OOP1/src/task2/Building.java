@@ -1,16 +1,15 @@
 package task2;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Building {
 
-    private final List<Room> rooms;
+    private final ArrayList<Room> rooms;
     private final int numberOfBathrooms;
     private final int numberOfFloors;
     private final boolean isOfficeBuilding;
 
-    public Building(List<Room> rooms, int numberOfBathrooms, int numberOfFloors, boolean isOfficeBuilding) {
+    public Building(ArrayList<Room> rooms, int numberOfBathrooms, int numberOfFloors, boolean isOfficeBuilding) {
         this.rooms = rooms;
         this.numberOfBathrooms = numberOfBathrooms;
         this.numberOfFloors = numberOfFloors;
@@ -29,7 +28,7 @@ public class Building {
         return numberOfFloors;
     }
 
-    public List<Room> getRooms() {
+    public ArrayList<Room> getRooms() {
         return rooms;
     }
 }
