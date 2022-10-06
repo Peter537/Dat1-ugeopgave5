@@ -1,5 +1,31 @@
 @startuml
 
+class Main {
+    + static void main(String[] args)
+}
 
+class Car {
+    - String make;
+    - String model;
+    - int year;
+    - String bodyStyle;
+    - Driver driver;
+
+    + Car(String make, String model, int year, String bodyStyle)
+    + Driver getDriver()
+    + void setDriver(Driver driver)
+    + String toString()
+}
+
+class Driver {
+    - String name;
+    - int age;
+
+    + Driver(String name, int age)
+    + String toString()
+}
+
+Main *-- Car
+Car *-- Driver
 
 @enduml
