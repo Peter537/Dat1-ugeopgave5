@@ -7,7 +7,7 @@ class Main {
 }
 
 class Building {
-    - ArrayList<Room> rooms
+    - final ArrayList<Room> rooms
     - int numberOfBathrooms
     - int numberOfFloors
     - boolean isOfficeBuilding
