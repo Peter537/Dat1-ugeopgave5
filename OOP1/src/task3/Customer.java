@@ -14,13 +14,6 @@ public class Customer {
         this.id = 0;
     }
 
-    public Customer(String firstName, String lastName, String username) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.username = username;
-        this.id = 0;
-    }
-
     public String getFirstName() {
         return firstName;
     }
