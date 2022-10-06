@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d799fa17-35dc-4ff1-ae84-5b6cd1674eaa" name="Changes" comment="" />
+    <list default="true" id="d799fa17-35dc-4ff1-ae84-5b6cd1674eaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/CarsAndDrivers.puml" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/CarsAndDrivers.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task1/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task1/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task2/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task2/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task3/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task3/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP1/task3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP1/task3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task3.Main">
+  <component name="RunManager" selected="Application.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Main" />
       <module name="OOP1" />
@@ -82,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task3.Main" />
         <item itemvalue="Application.task2.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.task3.Main" />
       </list>
     </recent_temporary>
   </component>

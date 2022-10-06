@@ -9,7 +9,7 @@ class Car {
     - final String model;
     - final int year;
     - final String bodyStyle;
-    - final Driver driver;
+    - Driver driver;
 
     + Car(String make, String model, int year, String bodyStyle)
     + Driver getDriver()
