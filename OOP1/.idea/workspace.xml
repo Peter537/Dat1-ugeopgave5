@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d799fa17-35dc-4ff1-ae84-5b6cd1674eaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task2/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task2.Main">
+  <component name="RunManager" selected="Application.task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Main" />
       <module name="OOP1" />
@@ -70,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.Main" />
+      <module name="OOP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task3.Main" />
         <item itemvalue="Application.task2.Main" />
         <item itemvalue="Application.Main" />
       </list>
