@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task2.Main">
+  <component name="RunManager" selected="Application.task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Main" />
       <module name="OOP1" />
@@ -83,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task3.Main" />
         <item itemvalue="Application.task2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.task3.Main" />
       </list>
     </recent_temporary>
   </component>
