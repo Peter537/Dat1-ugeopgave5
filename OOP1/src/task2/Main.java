@@ -29,9 +29,8 @@ public class Main {
     public static boolean isNormal(Building building) {
         if (building.getNumberOfFloors() > building.getRooms().size()) {
             return true;
-        } else {
-            System.out.println("This is an odd building");
-            return false;
         }
+        System.out.println("This is an odd building");
+        return false;
     }
 }
