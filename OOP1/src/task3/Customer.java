@@ -6,12 +6,14 @@ public class Customer {
     private final String lastName;
     private final String username;
     private final int id;
+    private static int IDCounter = 0;
 
     public Customer(String name, String username) {
         this.firstName = name.split(" ")[0];
         this.lastName = name.split(" ")[1];
         this.username = username;
-        this.id = 0;
+        IDCounter++;
+        this.id = IDCounter;
     }
 
     public String getFirstName() {
